@@ -1,0 +1,18 @@
+body {
+	color: blue;
+	background-color: gray;}
+rect{
+	fill: white;
+	stroke: red;
+	stroke-width: 10;
+}
+circle{
+	fill: white;
+}
+.defined-icon{
+	display: none;
+}
+.displayed-icon{
+	height: auto;
+	width: 20%;
+}

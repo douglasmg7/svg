@@ -1,0 +1,15 @@
+body {
+	color: blue;
+	background-color: gray;}
+rect{
+	fill: white;
+	stroke: red;
+	stroke-width: 10;
+}
+circle{
+	fill: white;
+}
+svg{
+	height: auto;
+	width: 90%;
+}
